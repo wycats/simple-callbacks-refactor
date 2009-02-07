@@ -1,4 +1,4 @@
-require File.join(File.dirname(__FILE__), "..", "lib", "new_callbacks")
+require File.join(File.dirname(__FILE__), "..", "lib", "callbacks")
 
 class MyKlass
   include Callbacks
